@@ -6,7 +6,7 @@
 //
 //
 
-import Foundation
+import UIKit
 
 @objc
 public enum ShiftPoint: Int {
